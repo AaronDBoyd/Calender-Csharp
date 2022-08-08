@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gsR1s2Peb7wFY/F/+qBiy1cwYUwLiUGYVSt8kMQmRAga40tuOWtRpLvMY7ts1eFqDRFEwODKVWLuQibi3Znsxw==",
+  "dgSpecHash": "h1MdiDswOCGKbbFEPzJS5CPmXUzaw0ku8rAf8HG7p8AfKkeWd82c/2NHiFXy7hiAtlGOWZib1GWFhRvoYLKL+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aaron\\Desktop\\calendar-c#\\Calendar.Solution\\Calendar.tests\\Calendar.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Aaron\\Desktop\\calendar-c#\\Calendar.Solution\\calendar.tests\\Calendar.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.net.test.sdk\\15.0.0\\microsoft.net.test.sdk.15.0.0.nupkg.sha512",

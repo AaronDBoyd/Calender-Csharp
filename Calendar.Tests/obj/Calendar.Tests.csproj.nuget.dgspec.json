@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aaron\\Desktop\\calendar-c#\\Calendar.Solution\\Calendar.tests\\Calendar.Tests.csproj": {}
+    "C:\\Users\\Aaron\\Desktop\\calendar-c#\\Calendar.Solution\\calendar.tests\\Calendar.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aaron\\Desktop\\calendar-c#\\Calendar.Solution\\Calendar.tests\\Calendar.Tests.csproj": {
+    "C:\\Users\\Aaron\\Desktop\\calendar-c#\\Calendar.Solution\\calendar.tests\\Calendar.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aaron\\Desktop\\calendar-c#\\Calendar.Solution\\Calendar.tests\\Calendar.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Aaron\\Desktop\\calendar-c#\\Calendar.Solution\\calendar.tests\\Calendar.Tests.csproj",
         "projectName": "Calendar.Tests",
-        "projectPath": "C:\\Users\\Aaron\\Desktop\\calendar-c#\\Calendar.Solution\\Calendar.tests\\Calendar.Tests.csproj",
+        "projectPath": "C:\\Users\\Aaron\\Desktop\\calendar-c#\\Calendar.Solution\\calendar.tests\\Calendar.Tests.csproj",
         "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aaron\\Desktop\\calendar-c#\\Calendar.Solution\\Calendar.tests\\obj\\",
+        "outputPath": "C:\\Users\\Aaron\\Desktop\\calendar-c#\\Calendar.Solution\\calendar.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aaron\\AppData\\Roaming\\NuGet\\NuGet.Config"
